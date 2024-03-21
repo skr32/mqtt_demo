@@ -1,4 +1,4 @@
-import * as mqtt from "mqtt"
+import mqtt2 from 'mqtt';
 import { rotateScene } from './code.js';
 
 const host = "ws://m464ee61.emqx.cloud:8083/mqtt" 
