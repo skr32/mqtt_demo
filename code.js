@@ -1,11 +1,12 @@
 import * as THREE from 'three';
 
-import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+/* import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
 import { KTX2Loader } from 'three/addons/loaders/KTX2Loader.js';
-import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js'; */
+
 
 let camera, scene, renderer;
 //const targetFrameRate = 1000 / 60; // 60 frames per second
